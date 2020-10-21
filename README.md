@@ -1,6 +1,6 @@
 # Automat
 
-The  solution is prepared by using C#, Selenium WebDriver and nUnit test framework
+The  solution is prepared by using C#, Selenium WebDriver and nUnit test framework.
 I use Visual Studio 2019 to open and edit project .
 
 
